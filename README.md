@@ -1,1 +1,0 @@
-# Fruits_fresh_and-rotten_Using_CNN
